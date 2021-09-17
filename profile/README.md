@@ -1,4 +1,6 @@
 ## Hi there 👋
+🌈 This is the Git Hub for Seated App
+
 
 <!--
 
