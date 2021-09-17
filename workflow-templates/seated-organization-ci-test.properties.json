@@ -1,0 +1,13 @@
+{
+    "name": "Seated Organization CI Workflow",
+    "description": "Seated Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
