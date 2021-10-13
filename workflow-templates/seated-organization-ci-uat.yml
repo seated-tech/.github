@@ -2,7 +2,7 @@ name: UAT CI/CD
 
 on:
   pull_request:
-    branches: [ $default_branch ]
+    branches: [ $default-branch ]
 jobs:
   Build:
     runs-on: ubuntu-latest
