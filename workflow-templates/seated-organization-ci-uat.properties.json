@@ -1,7 +1,7 @@
 {
     "name": "Seated Organization CI Workflow on UAT environment",
     "description": "Seated Organization CI workflow template.",
-    "iconName": "example-icon",
+    "iconName": "rocket",
     "categories": [
         "Java"
     ],
