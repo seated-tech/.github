@@ -1,5 +1,6 @@
 ## Hi there 👋
-🌈 This is the Git Hub for Seated App
+🌈 This is the GitHub for Seated App
+📖 Visit our Confluence Wiki https://guestfriend.atlassian.net/wiki/spaces/DC/pages
 
 
 <!--
